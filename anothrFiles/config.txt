@@ -1,0 +1,3 @@
+/home/TazManiak/students
+/home/TazManiak/part2/test_input.qa
+/home/TazManiak/part2/expected_output.qa
